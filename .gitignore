@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+.DS_Store
+*.pyc
+*.pyo
+env/
+.env
+.pytest_cache/
+/.streamlit/
+dist/
+build/
+*.egg-info
